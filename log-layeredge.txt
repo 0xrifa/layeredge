@@ -811,3 +811,30 @@
 [15:14:05 | 25-03-2025] Wallet Address: 0xBD83c025B80970b95a1A02403cB826356C4fDeC0
 [15:14:05 | 25-03-2025] Node Points: 990145
 [15:14:05 | 25-03-2025] Last Claim Point: 24/03/2025 08:14:37
+[19:19:18 | 25-03-2025] Wallet Address: 0xBD83c025B80970b95a1A02403cB826356C4fDeC0
+[19:19:18 | 25-03-2025] Node Points: 990145
+[19:19:18 | 25-03-2025] Last Claim Point: 24/03/2025 08:14:37
+[19:19:25 | 25-03-2025] 🚨 Failed to claim points for 0xBD83c025B80970b95a1A02403cB826356C4fDeC0: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[19:19:25 | 25-03-2025] 🚨 Failed to start node for 0xBD83c025B80970b95a1A02403cB826356C4fDeC0: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0xBD83c025B80970b95a1A02403cB826356C4fDeC0/start</pre>
+</body>
+</html>
+
